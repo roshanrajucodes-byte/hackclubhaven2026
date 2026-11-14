@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dp2up13wwo2nt"]
+
+[node name="Area2D" type="Area2D" unique_id=21821108]
+metadata/_edit_group_ = true
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1679263864]
